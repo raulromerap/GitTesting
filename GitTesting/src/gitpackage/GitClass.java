@@ -6,6 +6,8 @@ public class GitClass {
 
 		System.out.println("Holaa!!!");
 		
+		System.out.println("Adioos!!!");
+		
 	}
 
 }
